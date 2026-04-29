@@ -36,8 +36,12 @@
 ---
 
 ### 🛠️ Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,bootstrap,linux,c,cpp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,linux,c,cpp" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SPFx-SharePoint%20Framework-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 **Power Platform**
