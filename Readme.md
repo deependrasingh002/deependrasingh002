@@ -1,25 +1,24 @@
-
 <h1 align="center">Hi 👋, I'm Deependra Singh</h1>
-<h3 align="center">Frontend Developer | SPFx | React | TypeScript | Power Platform</h3>
+<h3 align="center">Sharepoint Developer | SPFx | React | Power Platform</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Passionate Frontend Developer building modern web applications  
-- ⚡ Specialized in **SPFx, React & TypeScript**  
-- 🔄 Working with **Power Automate & Power Apps**  
-- 🎯 Focused on creating scalable and user-friendly solutions  
+- 🚀 SPFX Developer focused on building modern web apps  
+- 🌱 Currently working with **React, TypeScript & SPFx**  
+- ⚡ Exploring **Power Automate & Power Apps**  
+- 🎯 Goal: Build scalable and user-friendly applications  
 
 ---
 
 ### 🌐 Portfolio
-👉 https://protfolio-eosin.vercel.app/
+👉 [Deependra Singh](https://deependra-singh.vercel.app/)
 
 ---
 
 ### 💬 Ask Me About
-`HTML` `CSS` `JavaScript` `React` `TypeScript`  
-`SPFx` `Power Automate` `Power Apps`
+`HTML` `CSS` `JavaScript` `React` `TypeScript` `SPFx`  
+`Power Automate` `Power Apps`
 
 ---
 
@@ -30,25 +29,21 @@
 
 ### 🔗 Connect With Me
 <p align="center">
-<a href="https://dev.to/trdxlucifer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/deependra-singh-14a33720a/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40"/></a>
-<a href="https://stackoverflow.com/users/18389882/deependra-singh"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" height="30" width="40"/></a>
-<a href="https://www.kaggle.com/trdxlucifer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" height="30" width="40"/></a>
-<a href="https://www.instagram.com/i_mdeependrajaiswan/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="30" width="40"/></a>
-<a href="https://leetcode.com/singhdepu566/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/deependrasingh/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ 
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,bootstrap,linux,c,cpp" />
 </p>
 
-#### ⚡ Power Platform
-- Power Automate  
-- Power Apps  
-- SharePoint Framework (SPFx)  
+**Power Platform**
+- ⚡ Power Automate  
+- 📱 Power Apps  
+- 🧩 SharePoint Framework (SPFx)
 
 ---
 
